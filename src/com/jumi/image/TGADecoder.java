@@ -17,7 +17,7 @@ import java.nio.ByteBuffer;
  * 
  * A simple TGA decoder. Current supports 24 and 32-bit images, uncompressed or RLE compressed
  * 
- * @author RGreenlees
+ * @author Richard Greenlees
  */
 public class TGADecoder {
 
